@@ -1,6 +1,11 @@
 // BEGIN_INTERNALS
 /*
-MAP_ICON_TYPE: 0
+LAST_COMPILE_TIME: 1460209643
+DIR: code code\game code\game\machinery code\game\machinery\computer code\game\objects code\game\objects\random code\modules code\modules\mining code\modules\projectiles code\modules\projectiles\guns code\modules\scrap icons icons\obj icons\obj\structures 
 AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1327
+WINDOW: code\game\objects\random\random_science.dm;code\modules\scrap\scrap.dm;code\game\machinery\computer\buildandrepair.dm;code\modules\projectiles\gun.dm
+FILE: code\modules\projectiles\gun.dm
 */
 // END_INTERNALS
